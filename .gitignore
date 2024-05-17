@@ -1,0 +1,5 @@
+dist/
+*.7z
+iiRcadeManager-*/
+build/
+*.spec
